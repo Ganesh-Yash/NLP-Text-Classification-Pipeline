@@ -1,0 +1,26 @@
+Test split (generated dataset, stratified 20% hold-out)
+============================================================
+                 precision    recall  f1-score   support
+
+        billing      1.000     0.967     0.983        30
+technical_issue      1.000     1.000     1.000        30
+ account_access      1.000     1.000     1.000        30
+general_enquiry      0.968     1.000     0.984        30
+
+       accuracy                          0.992       120
+      macro avg      0.992     0.992     0.992       120
+   weighted avg      0.992     0.992     0.992       120
+
+
+Unseen hand-written examples
+============================================================
+                 precision    recall  f1-score   support
+
+        billing      0.857     1.000     0.923         6
+technical_issue      1.000     0.333     0.500         6
+ account_access      0.667     1.000     0.800         6
+general_enquiry      1.000     1.000     1.000         6
+
+       accuracy                          0.833        24
+      macro avg      0.881     0.833     0.806        24
+   weighted avg      0.881     0.833     0.806        24

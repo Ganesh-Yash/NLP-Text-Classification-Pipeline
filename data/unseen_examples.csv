@@ -1,0 +1,25 @@
+text,label
+"Hi, the amount debited from my bank this morning doesn't match what your receipt says.",billing
+"We were told our renewal would be at the old price, but the new invoice is much higher.",billing
+"Could you reverse the premium charge? I don't use the service anymore and it was never cancelled properly.",billing
+"Our finance team cannot match the purchase order to the invoice you sent in March.",billing
+"Why is there a 'processing fee' on my statement? Nobody mentioned it when I signed up.",billing
+"I used a gift card at checkout but the money was still taken from my credit card.",billing
+"The dashboard freezes whenever I try to filter by date, so I can't see my numbers.",technical_issue
+"Every time I press save the screen spins and then shows 'something went wrong'.",technical_issue
+"Our nightly data pull has been stuck at 60 percent for two days.",technical_issue
+"The desktop client won't start on Windows 11 after the update; it just closes immediately.",technical_issue
+"Pictures I attach to tickets show up as grey boxes for the rest of the team.",technical_issue
+"Since this morning every request to the endpoint times out after thirty seconds.",technical_issue
+"I can't get into my account. It says my password is wrong but I'm sure it's correct.",account_access
+"Someone on my team left the company yesterday; how do I make sure they can no longer sign in?",account_access
+"The verification email never arrives, so I can't finish setting up my new login.",account_access
+"I got an 'access denied' message on the billing page even though I'm the account owner.",account_access
+"My authenticator app got wiped when I changed phones and now I'm locked out.",account_access
+"Please give my colleague the same permissions I have so she can manage the projects too.",account_access
+"Do you have a student discount or a special rate for universities?",general_enquiry
+"What's the best way to get in touch with someone in your partnerships team?",general_enquiry
+"Is there a way to see a sample report before I commit to a paid plan?",general_enquiry
+"Which regions do your servers run in? Our legal team needs to know for data residency.",general_enquiry
+"Can you recommend any case studies from companies in the logistics industry?",general_enquiry
+"I'm writing a university paper on customer support tools. Would you be willing to answer a few questions?",general_enquiry
