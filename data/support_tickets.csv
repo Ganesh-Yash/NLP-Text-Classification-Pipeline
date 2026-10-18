@@ -1,0 +1,601 @@
+text,label
+"Hi, the price on my bill is higher than the plan I signed up for since this morning. Thank you!",billing
+The charts on my dashboard show incorrect data since two days ago. Please help when you can.,technical_issue
+Sorry to bother you but please credit my account for the days I didn't use with error code E737. This is urgent for us.,billing
+Sorry to bother you but is there a free trial available before I buy. Any update would be appreciated.,general_enquiry
+Sorry to bother you but can I speak to someone about enterprise pricing options for plan Business. Thanks in advance.,general_enquiry
+"Hi, where can I find the user guide for the new features with error code E777. Thank you!",general_enquiry
+"Hi support, does your service comply with GDPR for plan Business.",general_enquiry
+"Hello there, does your service comply with GDPR for plan Team. Please help when you can.",general_enquiry
+Sorry to bother you but the invoice total doesn't match what I agreed to since Monday. Please help when you can.,billing
+"Good morning, which languages does the interface support since Monday. Thank you!",general_enquiry
+The password policy rejects every new password I try (order #92667). This is urgent for us.,account_access
+"Hello there, my session expires immediately after I log in for plan Starter. This is urgent for us.",account_access
+Sorry to bother you but I'd like to know if you are hiring for the support team (order #87994). Thank you!,general_enquiry
+"Hi support, the invoice total doesn't match what I agreed to for plan Pro. Let me know what to do next.",billing
+"Hey team, I was removed from my company workspace by mistake (order #74843). Any update would be appreciated.",account_access
+The late payment fee was added even though I paid on time for plan Team. This is urgent for us.,billing
+"Hi, the printer option is missing from the print menu on my account ACME-986. Please help when you can.",technical_issue
+"Good morning, the price on my bill is higher than the plan I signed up for on my account ACME-995. Let me know what to do next.",billing
+"Hey team, the app crashes every time I open the dashboard for plan Enterprise. Any update would be appreciated.",technical_issue
+Where can I find the user guide for the new features since last week. Any update would be appreciated.,general_enquiry
+"Hello there, the integration with our calendar stopped syncing events since Tuesday. Thanks in advance.",technical_issue
+The invoice total doesn't match what I agreed to for plan Starter.,billing
+Is there a free trial available before I buy with error code E389. Let me know what to do next.,general_enquiry
+"Good morning, the subscription renewed without notifying me and I was charged on my account ACME-309. Let me know what to do next.",billing
+Sorry to bother you but how long does onboarding usually take since two days ago.,general_enquiry
+"Good morning, I need a copy of my invoice for my accounts team (order #10350).",billing
+Do you publish a public roadmap for upcoming features on my account ACME-193. Thanks in advance.,general_enquiry
+"Hi support, the software installer fails with error code 0x80070005 (order #28035). Please help when you can.",technical_issue
+My account is locked after too many failed attempts (order #96193). Any update would be appreciated.,account_access
+"Hello there, my discount disappeared from the renewal invoice. Thank you!",billing
+"Good morning, the subscription renewed without notifying me and I was charged on my account ACME-552. Thank you!",billing
+"Hi, the website is extremely slow since yesterday (order #50562). Let me know what to do next.",technical_issue
+"Hi support, I'd like to leave some general feedback about the product since Monday. Thanks in advance.",general_enquiry
+"Good morning, please reactivate my account that was suspended since last week. This is urgent for us.",account_access
+Sorry to bother you but I was overcharged for the extra seat we added since this morning. Let me know what to do next.,billing
+"Hello there, are there any upcoming webinars I can attend. Any update would be appreciated.",general_enquiry
+"Hey team, the subscription renewed without notifying me and I was charged since two days ago. Please help when you can.",billing
+Sorry to bother you but how long does onboarding usually take (order #62873). Thanks in advance.,general_enquiry
+Sorry to bother you but I'd like to know if you are hiring for the support team (order #15593). Thanks in advance.,general_enquiry
+"Good morning, the app crashes every time I open the dashboard (order #84798). Please help when you can.",technical_issue
+Sorry to bother you but the browser extension stops responding after a few clicks. Thank you!,technical_issue
+Sorry to bother you but I'd like to know if you are hiring for the support team (order #14334).,general_enquiry
+The layout is broken on Safari and buttons overlap. This is urgent for us.,technical_issue
+"Hi, my payment failed but I still see a pending charge with error code E109. Thank you!",billing
+"Hey team, are there any upcoming webinars I can attend since this morning.",general_enquiry
+I need to transfer ownership of the account to a colleague since yesterday. This is urgent for us.,account_access
+"Hi, how long does onboarding usually take. This is urgent for us.",general_enquiry
+Sorry to bother you but the browser extension stops responding after a few clicks with error code E655. Please help when you can.,technical_issue
+The export button does nothing when I click it for plan Team. Please help when you can.,technical_issue
+"Hey team, I can't sign in from my new laptop (order #45247). Thanks in advance.",account_access
+"Hey team, there is an unexpected fee on my statement on my account ACME-384. Please help when you can.",billing
+Sorry to bother you but I need to change the email address linked to my account for plan Starter. Let me know what to do next.,account_access
+"Hello there, the late payment fee was added even though I paid on time.",billing
+"Hi, the password policy rejects every new password I try. Please help when you can.",account_access
+Do you offer a discount for non-profit organisations. Thank you!,general_enquiry
+"Hello there, could you send me the product brochure (order #96194). Any update would be appreciated.",general_enquiry
+"Hi, is there a free trial available before I buy (order #44934). Thank you!",general_enquiry
+"Hi support, where can I read your terms of service for plan Starter. Let me know what to do next.",general_enquiry
+"Hi, are there any upcoming webinars I can attend for plan Business.",general_enquiry
+"Hey team, I need to unlock access to the reporting module for my role with error code E507. Thank you!",account_access
+"Good morning, my account says my permissions are read-only and I need edit access since this morning. Thank you!",account_access
+Sorry to bother you but how do I remove access for a former employee with error code E611. Please help when you can.,account_access
+How long does onboarding usually take with error code E444. Please help when you can.,general_enquiry
+"Hi support, the search function returns no results even for exact matches since Monday. Thank you!",technical_issue
+"Hi support, I need to unlock access to the reporting module for my role with error code E432.",account_access
+"Hi, can you tell me whether the product works with Linux (order #63368). This is urgent for us.",general_enquiry
+"Hi, why was my card billed after I cancelled (order #99192). Thank you!",billing
+"Good morning, how do I add a new user to our team account with error code E941. Thank you!",account_access
+"Hey team, I want a refund for the last payment since Monday. Any update would be appreciated.",billing
+"Good morning, how long does onboarding usually take. This is urgent for us.",general_enquiry
+I was charged for a plan I never purchased. Let me know what to do next.,billing
+"Hi, my session expires immediately after I log in for plan Enterprise. Any update would be appreciated.",account_access
+"Hi support, there is an unexpected fee on my statement since Monday. Thanks in advance.",billing
+"Hi, I'd like to know if you are hiring for the support team with error code E776. This is urgent for us.",general_enquiry
+"Good morning, the invite link to join our organisation has expired with error code E477. This is urgent for us.",account_access
+"Hello there, the mobile app freezes on the home screen with error code E825. Please help when you can.",technical_issue
+My discount disappeared from the renewal invoice since Monday. This is urgent for us.,billing
+"Hello there, the price on my bill is higher than the plan I signed up for (order #58434).",billing
+Is it possible to schedule a call with the sales team with error code E350. Thanks in advance.,general_enquiry
+"Hey team, the software installer fails with error code 0x80070005 since last week. This is urgent for us.",technical_issue
+"Hi support, why was my card billed after I cancelled on my account ACME-448. Let me know what to do next.",billing
+"Hi, our scheduled jobs are failing with a memory error for plan Enterprise. Thank you!",technical_issue
+Is it possible to schedule a call with the sales team with error code E843. Let me know what to do next.,general_enquiry
+"Hey team, why was my card billed after I cancelled on my account ACME-378. Thank you!",billing
+"Good morning, uploads fail halfway through with a timeout. Please help when you can.",technical_issue
+Sorry to bother you but can I switch from monthly billing to annual billing with error code E210. Thank you!,billing
+"Hey team, I'm getting a blank screen after the latest update for plan Business. This is urgent for us.",technical_issue
+"Good morning, I need to unlock access to the reporting module for my role since Tuesday. Please help when you can.",account_access
+I was charged for a plan I never purchased (order #44675). Thank you!,billing
+"Good morning, the browser extension stops responding after a few clicks for plan Enterprise. This is urgent for us.",technical_issue
+"Hi support, notifications stopped working after the last release for plan Enterprise. Please help when you can.",technical_issue
+"Hey team, the subscription renewed without notifying me and I was charged for plan Business. Thank you!",billing
+"Good morning, the charts on my dashboard show incorrect data (order #75570). Thank you!",technical_issue
+"Hello there, is it possible to schedule a call with the sales team on my account ACME-867. Thanks in advance.",general_enquiry
+"Good morning, the late payment fee was added even though I paid on time. Thank you!",billing
+"Hi support, data imported from CSV is showing up with missing rows with error code E164. This is urgent for us.",technical_issue
+"Hello there, the browser extension stops responding after a few clicks for plan Starter. Let me know what to do next.",technical_issue
+"Hello there, notifications stopped working after the last release with error code E195. Thanks in advance.",technical_issue
+"Hey team, the search function returns no results even for exact matches on my account ACME-712. This is urgent for us.",technical_issue
+"Good morning, why was my card billed after I cancelled on my account ACME-546. This is urgent for us.",billing
+"Hi, can I speak to someone about enterprise pricing options (order #43438). Please help when you can.",general_enquiry
+"Hi, the price on my bill is higher than the plan I signed up for for plan Pro. Thanks in advance.",billing
+"Good morning, the tax amount on my order is wrong on my account ACME-993. Thanks in advance.",billing
+"Hello there, single sign-on keeps redirecting me back to the login page. This is urgent for us.",account_access
+"Hi support, are there any upcoming webinars I can attend (order #56567).",general_enquiry
+Why did my price go up at renewal with error code E975.,billing
+"Hi, the late payment fee was added even though I paid on time (order #44687). Thank you!",billing
+"Hi support, I can't access the admin panel anymore.",account_access
+"Good morning, the export button does nothing when I click it (order #30280). Let me know what to do next.",technical_issue
+"Hi support, the search function returns no results even for exact matches with error code E493. This is urgent for us.",technical_issue
+"Hey team, uploads fail halfway through with a timeout (order #81496). Let me know what to do next.",technical_issue
+"Good morning, my session expires immediately after I log in on my account ACME-176. This is urgent for us.",account_access
+"Hey team, please reactivate my account that was suspended (order #78303). Any update would be appreciated.",account_access
+"Good morning, how long does onboarding usually take (order #81638). This is urgent for us.",general_enquiry
+"Hello there, two-factor codes are not being accepted on my phone. This is urgent for us.",account_access
+"Hi, file attachments are corrupted when I download them (order #89254). Any update would be appreciated.",technical_issue
+"Hi support, I can't verify my identity to recover my account. Let me know what to do next.",account_access
+I see a database connection error when saving my changes for plan Pro. Thanks in advance.,technical_issue
+"Hi support, I need to transfer ownership of the account to a colleague since Tuesday. Let me know what to do next.",account_access
+"Hi, the tax amount on my order is wrong for plan Enterprise. Please help when you can.",billing
+"Good morning, do you support integrations with Slack and Teams with error code E815. Thank you!",general_enquiry
+"Hello there, why did my price go up at renewal with error code E371. Thanks in advance.",billing
+The video player won't play any recordings. Please help when you can.,technical_issue
+"Hello there, can I switch from monthly billing to annual billing for plan Starter. This is urgent for us.",billing
+"Hi, does your service comply with GDPR since last week.",general_enquiry
+"Hi support, the tax amount on my order is wrong. This is urgent for us.",billing
+"Good morning, the password policy rejects every new password I try with error code E990. Thank you!",account_access
+"Hi, the export button does nothing when I click it (order #41029). Any update would be appreciated.",technical_issue
+I need a copy of my invoice for my accounts team. Let me know what to do next.,billing
+"Hello there, single sign-on keeps redirecting me back to the login page for plan Enterprise. Thanks in advance.",account_access
+"Hello there, is there a mobile app available for tablets for plan Enterprise.",general_enquiry
+Sorry to bother you but my session expires immediately after I log in with error code E729. Please help when you can.,account_access
+"Hi support, please reactivate my account that was suspended. This is urgent for us.",account_access
+"Hello there, the printer option is missing from the print menu for plan Enterprise. Thanks in advance.",technical_issue
+"Hi, the sync between my phone and the desktop app is broken on my account ACME-151. Let me know what to do next.",technical_issue
+"Hey team, are there any upcoming webinars I can attend for plan Team. Let me know what to do next.",general_enquiry
+"Hi support, our scheduled jobs are failing with a memory error since yesterday. Let me know what to do next.",technical_issue
+What kind of customer support do you offer on weekends for plan Starter. Please help when you can.,general_enquiry
+"Hi, I can't find the charge for last month on my statement on my account ACME-763. Thank you!",billing
+"Hey team, I can't access the admin panel anymore since last week. Thanks in advance.",account_access
+"Hey team, I was billed in the wrong currency for plan Team. Thank you!",billing
+Sorry to bother you but does your service comply with GDPR on my account ACME-188. Any update would be appreciated.,general_enquiry
+Sorry to bother you but uploads fail halfway through with a timeout on my account ACME-625. Thanks in advance.,technical_issue
+"Hello there, I'd like to know if you are hiring for the support team for plan Starter. Please help when you can.",general_enquiry
+"Hello there, does your service comply with GDPR. Thanks in advance.",general_enquiry
+"Hi support, the page keeps showing an error 500 since Tuesday. Please help when you can.",technical_issue
+"Hi, my payment failed but I still see a pending charge since last week. Let me know what to do next.",billing
+"Hi support, do you have an office in Europe with error code E781. Let me know what to do next.",general_enquiry
+"Hi support, the video player won't play any recordings on my account ACME-390. Thanks in advance.",technical_issue
+Sorry to bother you but I need a copy of my invoice for my accounts team (order #64040). Any update would be appreciated.,billing
+"Hello there, do you support integrations with Slack and Teams (order #33081). Any update would be appreciated.",general_enquiry
+"Hey team, the subscription renewed without notifying me and I was charged since Monday. Let me know what to do next.",billing
+I lost my authenticator app and need to reset two-factor for plan Team. Let me know what to do next.,account_access
+"Hello there, my discount disappeared from the renewal invoice with error code E296. Any update would be appreciated.",billing
+Sorry to bother you but my promo code was not applied to my order total on my account ACME-349.,billing
+Is it possible to schedule a call with the sales team for plan Enterprise. Thank you!,general_enquiry
+"Hello there, the software installer fails with error code 0x80070005 on my account ACME-233. Thank you!",technical_issue
+Sorry to bother you but how can I delete my account and all associated data.,account_access
+"Hi, my username was changed and now I can't sign in with error code E582. This is urgent for us.",account_access
+"Hello there, the website is extremely slow since yesterday since last week. Thank you!",technical_issue
+"Hey team, the late payment fee was added even though I paid on time with error code E262. Let me know what to do next.",billing
+"Hi support, I can't verify my identity to recover my account with error code E148. Thanks in advance.",account_access
+"Hi support, I need to transfer ownership of the account to a colleague on my account ACME-873. Let me know what to do next.",account_access
+"Hello there, does your service comply with GDPR (order #67261). Thanks in advance.",general_enquiry
+"Hi support, how do I add a new user to our team account with error code E917. Let me know what to do next.",account_access
+"Good morning, the website is extremely slow since yesterday for plan Starter. Let me know what to do next.",technical_issue
+"Hey team, how do I subscribe to your newsletter with error code E384.",general_enquiry
+"Hello there, can I speak to someone about enterprise pricing options. Thanks in advance.",general_enquiry
+"Good morning, notifications stopped working after the last release on my account ACME-175.",technical_issue
+The search function returns no results even for exact matches with error code E985. Any update would be appreciated.,technical_issue
+Is there a free trial available before I buy on my account ACME-240. Please help when you can.,general_enquiry
+"Hey team, the integration with our calendar stopped syncing events since this morning. This is urgent for us.",technical_issue
+How do I remove access for a former employee (order #27290). This is urgent for us.,account_access
+"Hello there, my promo code was not applied to my order total for plan Team. Thank you!",billing
+"Hey team, the charts on my dashboard show incorrect data with error code E844. Please help when you can.",technical_issue
+"Hey team, I see a database connection error when saving my changes on my account ACME-707. Any update would be appreciated.",technical_issue
+I keep getting 'invalid credentials' even though the password is correct with error code E915. Let me know what to do next.,account_access
+Sorry to bother you but which languages does the interface support with error code E215.,general_enquiry
+"Hi support, how do I subscribe to your newsletter for plan Team. Thank you!",general_enquiry
+"Hi support, I need to unlock access to the reporting module for my role for plan Team. Thank you!",account_access
+"Hi, our scheduled jobs are failing with a memory error with error code E872. Any update would be appreciated.",technical_issue
+Sorry to bother you but I need to transfer ownership of the account to a colleague (order #47941). This is urgent for us.,account_access
+"Hi support, my account says my permissions are read-only and I need edit access (order #24316). Please help when you can.",account_access
+Sorry to bother you but the password policy rejects every new password I try. Any update would be appreciated.,account_access
+"Good morning, my account says my permissions are read-only and I need edit access since two days ago. Thanks in advance.",account_access
+"Hi, I need to change the email address linked to my account since two days ago. Please help when you can.",account_access
+"Good morning, my account is locked after too many failed attempts.",account_access
+"Good morning, the checkout page throws a JavaScript error and won't load on my account ACME-225. Let me know what to do next.",technical_issue
+"Hi support, I'm not receiving the verification code by SMS since yesterday. Any update would be appreciated.",account_access
+Sorry to bother you but I'd like to know if you are hiring for the support team (order #85534). Any update would be appreciated.,general_enquiry
+"Good morning, I was charged for a plan I never purchased. Let me know what to do next.",billing
+Sorry to bother you but my invoice shows the wrong amount for plan Team. Please help when you can.,billing
+Our scheduled jobs are failing with a memory error. Thank you!,technical_issue
+"Hi, the late payment fee was added even though I paid on time since this morning. Let me know what to do next.",billing
+Sorry to bother you but my promo code was not applied to my order total for plan Business.,billing
+Could you send me the product brochure on my account ACME-939. Thank you!,general_enquiry
+"Hey team, file attachments are corrupted when I download them (order #54589). This is urgent for us.",technical_issue
+"Hi, I need a receipt showing the amount paid for expense claims since last week. Any update would be appreciated.",billing
+"Hi, notifications stopped working after the last release (order #81932). Any update would be appreciated.",technical_issue
+"Hi, I was overcharged for the extra seat we added since Monday.",billing
+The checkout page throws a JavaScript error and won't load on my account ACME-175. Thanks in advance.,technical_issue
+Which languages does the interface support since this morning. Thanks in advance.,general_enquiry
+"Hey team, is there a free trial available before I buy with error code E796. Thanks in advance.",general_enquiry
+"Hey team, the website is extremely slow since yesterday for plan Enterprise. Please help when you can.",technical_issue
+"Hi, uploads fail halfway through with a timeout with error code E133. Any update would be appreciated.",technical_issue
+"Hey team, how do I add a new user to our team account since Tuesday. Thank you!",account_access
+"Hey team, the website is extremely slow since yesterday with error code E781. This is urgent for us.",technical_issue
+Sorry to bother you but notifications stopped working after the last release (order #80807). Thanks in advance.,technical_issue
+The website is extremely slow since yesterday on my account ACME-616. Any update would be appreciated.,technical_issue
+Sorry to bother you but I can't log in to my account on my account ACME-789.,account_access
+"Good morning, the video player won't play any recordings on my account ACME-881. Thank you!",technical_issue
+"Hello there, the VAT on my receipt looks incorrect for plan Business. Thank you!",billing
+"Good morning, I need to unlock access to the reporting module for my role for plan Enterprise. Thanks in advance.",account_access
+I can't log in to my account with error code E614. Let me know what to do next.,account_access
+"Hi, my login works on the web but not in the mobile app for plan Pro. Thanks in advance.",account_access
+Sorry to bother you but the browser extension stops responding after a few clicks with error code E199. Thank you!,technical_issue
+The page keeps showing an error 500 for plan Team. Please help when you can.,technical_issue
+"Hello there, do you have an office in Europe for plan Starter. Please help when you can.",general_enquiry
+"Hi, where can I read your terms of service on my account ACME-971. Thanks in advance.",general_enquiry
+"Hi, do you support integrations with Slack and Teams since Tuesday. Any update would be appreciated.",general_enquiry
+"Hi support, is it possible to schedule a call with the sales team since yesterday. Please help when you can.",general_enquiry
+"Good morning, my account is locked after too many failed attempts on my account ACME-200. Thank you!",account_access
+"Hey team, why was my card billed after I cancelled with error code E822.",billing
+"Hi, I'd like to leave some general feedback about the product since Monday. Thanks in advance.",general_enquiry
+"Hi, the subscription renewed without notifying me and I was charged since this morning. Let me know what to do next.",billing
+"Hi support, my login works on the web but not in the mobile app.",account_access
+"Hello there, the invoice total doesn't match what I agreed to with error code E482. Any update would be appreciated.",billing
+"Hi, the app logs me out every few minutes during use since yesterday. Please help when you can.",technical_issue
+"Good morning, I keep getting 'invalid credentials' even though the password is correct on my account ACME-396. Thanks in advance.",account_access
+"Hey team, can you tell me whether the product works with Linux with error code E919. Any update would be appreciated.",general_enquiry
+Sorry to bother you but the mobile app freezes on the home screen with error code E192. Thanks in advance.,technical_issue
+"Hi support, what kind of customer support do you offer on weekends with error code E343. This is urgent for us.",general_enquiry
+"Hi, can I switch from monthly billing to annual billing with error code E355. Thanks in advance.",billing
+"Hi support, how do I subscribe to your newsletter for plan Business. Please help when you can.",general_enquiry
+Sorry to bother you but I'm not receiving the verification code by SMS for plan Pro. This is urgent for us.,account_access
+Is it possible to schedule a call with the sales team since Monday. Thank you!,general_enquiry
+"Hey team, the integration with our calendar stopped syncing events. Let me know what to do next.",technical_issue
+"Good morning, the charts on my dashboard show incorrect data.",technical_issue
+Sorry to bother you but my payment failed but I still see a pending charge since last week. Any update would be appreciated.,billing
+"Hi, I was removed from my company workspace by mistake since last week. Please help when you can.",account_access
+Sorry to bother you but the browser extension stops responding after a few clicks on my account ACME-284. Thank you!,technical_issue
+"Hi, the video player won't play any recordings since Monday. Any update would be appreciated.",technical_issue
+The VAT on my receipt looks incorrect for plan Starter. Any update would be appreciated.,billing
+Sorry to bother you but reports are loading forever and never finish since Monday. Thank you!,technical_issue
+Please reactivate my account that was suspended with error code E431. This is urgent for us.,account_access
+Sorry to bother you but my promo code was not applied to my order total (order #13201). Thanks in advance.,billing
+"Hey team, is there a free trial available before I buy for plan Business. This is urgent for us.",general_enquiry
+"Hey team, please update the billing address on my invoice for plan Enterprise. Any update would be appreciated.",billing
+"Good morning, I need to unlock access to the reporting module for my role on my account ACME-747. Thank you!",account_access
+"Hello there, the invoice total doesn't match what I agreed to for plan Enterprise.",billing
+"Hi, where can I find the user guide for the new features. Thank you!",general_enquiry
+"Hi, the API is returning a 503 error intermittently. This is urgent for us.",technical_issue
+Sorry to bother you but I need to change the email address linked to my account (order #17780). Thanks in advance.,account_access
+Is there a mobile app available for tablets since last week. Thanks in advance.,general_enquiry
+Can you tell me whether the product works with Linux since last week. This is urgent for us.,general_enquiry
+"Good morning, I'd like to know if you are hiring for the support team on my account ACME-306. Thanks in advance.",general_enquiry
+"Good morning, I was removed from my company workspace by mistake on my account ACME-373. Let me know what to do next.",account_access
+The price on my bill is higher than the plan I signed up for (order #50319).,billing
+"Hey team, there is an unexpected fee on my statement since last week.",billing
+"Hi support, can I get a demo of the product for my team next week since this morning. This is urgent for us.",general_enquiry
+"Hi, the video player won't play any recordings since Tuesday. Thanks in advance.",technical_issue
+Sorry to bother you but my payment failed but I still see a pending charge for plan Enterprise.,billing
+Sorry to bother you but I was charged twice for my subscription this month (order #65392). Any update would be appreciated.,billing
+Sorry to bother you but the mobile app freezes on the home screen for plan Starter. Thank you!,technical_issue
+"Hi support, I keep getting 'invalid credentials' even though the password is correct for plan Enterprise. Thanks in advance.",account_access
+"Hey team, single sign-on keeps redirecting me back to the login page on my account ACME-319. Thank you!",account_access
+The app crashes every time I open the dashboard for plan Starter. This is urgent for us.,technical_issue
+"Hello there, data imported from CSV is showing up with missing rows for plan Business. Thank you!",technical_issue
+"Good morning, data imported from CSV is showing up with missing rows since Tuesday. Please help when you can.",technical_issue
+"Hi, I was billed in the wrong currency. Please help when you can.",billing
+"Hello there, how long does onboarding usually take on my account ACME-391. Thanks in advance.",general_enquiry
+Sorry to bother you but I'm getting a blank screen after the latest update (order #53064). Any update would be appreciated.,technical_issue
+Sorry to bother you but what kind of customer support do you offer on weekends (order #90541).,general_enquiry
+"Hello there, notifications stopped working after the last release. Please help when you can.",technical_issue
+"Hey team, the search function returns no results even for exact matches with error code E943. Thank you!",technical_issue
+"Hello there, do you publish a public roadmap for upcoming features since Monday. Any update would be appreciated.",general_enquiry
+"Hi, the price on my bill is higher than the plan I signed up for with error code E524. This is urgent for us.",billing
+"Hi, I lost my authenticator app and need to reset two-factor for plan Enterprise. Thanks in advance.",account_access
+"Good morning, there is an unexpected fee on my statement (order #65296). This is urgent for us.",billing
+"Good morning, the mobile app freezes on the home screen for plan Business. Please help when you can.",technical_issue
+Sorry to bother you but why was my card billed after I cancelled (order #50768). Any update would be appreciated.,billing
+"Good morning, why did my price go up at renewal on my account ACME-155. Thanks in advance.",billing
+I'm getting a blank screen after the latest update. Thanks in advance.,technical_issue
+"Hi support, the printer option is missing from the print menu on my account ACME-134.",technical_issue
+My payment failed but I still see a pending charge for plan Business. Thanks in advance.,billing
+"Good morning, how do I remove access for a former employee since Monday. Let me know what to do next.",account_access
+"Good morning, the layout is broken on Safari and buttons overlap since Monday. Please help when you can.",technical_issue
+The layout is broken on Safari and buttons overlap. Please help when you can.,technical_issue
+"Hi, the mobile app freezes on the home screen with error code E109. This is urgent for us.",technical_issue
+Sorry to bother you but my discount disappeared from the renewal invoice with error code E787. Thank you!,billing
+"Hello there, is it possible to schedule a call with the sales team for plan Starter. Please help when you can.",general_enquiry
+Sorry to bother you but I was billed in the wrong currency for plan Team. This is urgent for us.,billing
+"Hi, I can't sign in from my new laptop since this morning.",account_access
+Sorry to bother you but the late payment fee was added even though I paid on time for plan Business. Let me know what to do next.,billing
+Sorry to bother you but I see a database connection error when saving my changes since Monday. Please help when you can.,technical_issue
+"Hello there, what is the difference between the standard and pro plans since yesterday. This is urgent for us.",general_enquiry
+"Hi support, my username was changed and now I can't sign in for plan Enterprise. Thanks in advance.",account_access
+"Hey team, I'd like to leave some general feedback about the product (order #46677).",general_enquiry
+Sorry to bother you but what kind of customer support do you offer on weekends (order #12348). Let me know what to do next.,general_enquiry
+"Hello there, I'd like to dispute a transaction on my bank statement for plan Business. Thank you!",billing
+"Hey team, what is the difference between the standard and pro plans on my account ACME-151. Please help when you can.",general_enquiry
+"Hey team, is it possible to schedule a call with the sales team on my account ACME-846. Any update would be appreciated.",general_enquiry
+"Hello there, the tax amount on my order is wrong since last week. Please help when you can.",billing
+The page keeps showing an error 500 on my account ACME-760. Please help when you can.,technical_issue
+"Hey team, I need a copy of my invoice for my accounts team with error code E208.",billing
+Sorry to bother you but the browser extension stops responding after a few clicks with error code E460. This is urgent for us.,technical_issue
+"Hi, how long does onboarding usually take since Tuesday. Please help when you can.",general_enquiry
+Reports are loading forever and never finish since Monday. Thanks in advance.,technical_issue
+"Hi support, the invite link to join our organisation has expired. Any update would be appreciated.",account_access
+"Hi support, the subscription renewed without notifying me and I was charged for plan Pro. This is urgent for us.",billing
+"Hi support, can I switch from monthly billing to annual billing since Tuesday. Thank you!",billing
+"Hey team, I need to transfer ownership of the account to a colleague with error code E384.",account_access
+"Hello there, are there any upcoming webinars I can attend since this morning. Please help when you can.",general_enquiry
+"Hi support, I need to transfer ownership of the account to a colleague (order #93948). Thanks in advance.",account_access
+"Hi support, I was charged for a plan I never purchased for plan Pro. Thanks in advance.",billing
+Sorry to bother you but do you have an office in Europe (order #39012). Let me know what to do next.,general_enquiry
+"Hi, I'd like to leave some general feedback about the product since Monday. Thank you!",general_enquiry
+"Good morning, the printer option is missing from the print menu (order #91922). Please help when you can.",technical_issue
+"Hey team, where can I read your terms of service (order #21362). Any update would be appreciated.",general_enquiry
+"Good morning, data imported from CSV is showing up with missing rows (order #66370). Thank you!",technical_issue
+"Hi, what is the difference between the standard and pro plans on my account ACME-232. Thank you!",general_enquiry
+Sorry to bother you but the layout is broken on Safari and buttons overlap since yesterday. Thank you!,technical_issue
+"Hey team, how do I add a new user to our team account for plan Team. Thank you!",account_access
+"Hello there, there is an unexpected fee on my statement on my account ACME-386. Any update would be appreciated.",billing
+"Hey team, my username was changed and now I can't sign in. Any update would be appreciated.",account_access
+"Hi, my account is locked after too many failed attempts on my account ACME-406. This is urgent for us.",account_access
+"Hey team, my session expires immediately after I log in. Let me know what to do next.",account_access
+Sorry to bother you but the printer option is missing from the print menu on my account ACME-315. Let me know what to do next.,technical_issue
+"Hi support, I need to change the email address linked to my account (order #43119). Please help when you can.",account_access
+"Hey team, I keep getting 'invalid credentials' even though the password is correct for plan Pro. Thank you!",account_access
+"Hi, my account says my permissions are read-only and I need edit access. This is urgent for us.",account_access
+"Good morning, single sign-on keeps redirecting me back to the login page for plan Enterprise. This is urgent for us.",account_access
+How do I add a new user to our team account with error code E771. This is urgent for us.,account_access
+"Hello there, please update the billing address on my invoice with error code E972. Let me know what to do next.",billing
+"Hello there, the website is extremely slow since yesterday. This is urgent for us.",technical_issue
+"Good morning, can I get a demo of the product for my team next week (order #97486).",general_enquiry
+The charts on my dashboard show incorrect data with error code E643. Thanks in advance.,technical_issue
+Sorry to bother you but how do I remove access for a former employee for plan Pro. This is urgent for us.,account_access
+"Good morning, my session expires immediately after I log in since Tuesday. This is urgent for us.",account_access
+"Hey team, the tax amount on my order is wrong on my account ACME-152. This is urgent for us.",billing
+"Hi support, my account is locked after too many failed attempts.",account_access
+"Hi support, I forgot my password and the reset email never arrived (order #93616). Let me know what to do next.",account_access
+"Hi support, I need a copy of my invoice for my accounts team since Monday. This is urgent for us.",billing
+"Hi, the invite link to join our organisation has expired (order #53383). Let me know what to do next.",account_access
+"Good morning, the sync between my phone and the desktop app is broken with error code E758.",technical_issue
+"Hello there, my payment failed but I still see a pending charge (order #76784). Thanks in advance.",billing
+My username was changed and now I can't sign in.,account_access
+My discount disappeared from the renewal invoice (order #21221). Let me know what to do next.,billing
+The app crashes every time I open the dashboard. Please help when you can.,technical_issue
+"Hey team, the subscription renewed without notifying me and I was charged for plan Starter. Thanks in advance.",billing
+"Hello there, the password policy rejects every new password I try for plan Business. This is urgent for us.",account_access
+"Good morning, please update the billing address on my invoice (order #71669).",billing
+"Hello there, are there any upcoming webinars I can attend.",general_enquiry
+Sorry to bother you but what kind of customer support do you offer on weekends. Let me know what to do next.,general_enquiry
+"Hello there, can I switch from monthly billing to annual billing for plan Team. Let me know what to do next.",billing
+"Hello there, I need a copy of my invoice for my accounts team. Let me know what to do next.",billing
+"Hey team, please reactivate my account that was suspended for plan Team. Please help when you can.",account_access
+The VAT on my receipt looks incorrect since Monday. Let me know what to do next.,billing
+Sorry to bother you but I need to transfer ownership of the account to a colleague (order #70375). Thanks in advance.,account_access
+"Hello there, the invoice total doesn't match what I agreed to since Tuesday. This is urgent for us.",billing
+"Hey team, my payment failed but I still see a pending charge (order #29342). This is urgent for us.",billing
+"Hello there, the export button does nothing when I click it since yesterday. Any update would be appreciated.",technical_issue
+"Hey team, where can I read your terms of service on my account ACME-155. Let me know what to do next.",general_enquiry
+"Hey team, could you send me the product brochure on my account ACME-865. Thank you!",general_enquiry
+"Hi support, do you support integrations with Slack and Teams (order #56392). This is urgent for us.",general_enquiry
+Sorry to bother you but please update the billing address on my invoice with error code E180.,billing
+Sorry to bother you but the checkout page throws a JavaScript error and won't load for plan Pro. Let me know what to do next.,technical_issue
+I was charged for a plan I never purchased (order #63736). Thank you!,billing
+"Good morning, the app logs me out every few minutes during use for plan Pro. Please help when you can.",technical_issue
+I was removed from my company workspace by mistake since two days ago.,account_access
+The printer option is missing from the print menu since last week. Let me know what to do next.,technical_issue
+I can't sign in from my new laptop on my account ACME-312. Thanks in advance.,account_access
+Single sign-on keeps redirecting me back to the login page since two days ago. Thanks in advance.,account_access
+"Hi support, the printer option is missing from the print menu on my account ACME-108. This is urgent for us.",technical_issue
+"Good morning, I see a database connection error when saving my changes (order #89463). This is urgent for us.",technical_issue
+Sorry to bother you but the export button does nothing when I click it (order #49472). Please help when you can.,technical_issue
+"Hello there, the export button does nothing when I click it for plan Enterprise. Thanks in advance.",technical_issue
+"Hi, the app crashes every time I open the dashboard on my account ACME-702.",technical_issue
+"Hi, my promo code was not applied to my order total with error code E985.",billing
+"Good morning, which languages does the interface support. Let me know what to do next.",general_enquiry
+Sorry to bother you but I see a database connection error when saving my changes with error code E177. Please help when you can.,technical_issue
+My login works on the web but not in the mobile app for plan Business. Please help when you can.,account_access
+Sorry to bother you but how do I remove access for a former employee. Please help when you can.,account_access
+Sorry to bother you but the integration with our calendar stopped syncing events.,technical_issue
+"Hey team, the API is returning a 503 error intermittently with error code E608. This is urgent for us.",technical_issue
+Sorry to bother you but I want a refund for the last payment. Thank you!,billing
+"Good morning, the password policy rejects every new password I try. Any update would be appreciated.",account_access
+"Hello there, I can't log in to my account since last week. Let me know what to do next.",account_access
+"Hey team, there is an unexpected fee on my statement for plan Team. Thank you!",billing
+I'd like to know if you are hiring for the support team for plan Pro.,general_enquiry
+The website is extremely slow since yesterday (order #94109). Thank you!,technical_issue
+"Hi support, single sign-on keeps redirecting me back to the login page for plan Enterprise. Thank you!",account_access
+Sorry to bother you but please credit my account for the days I didn't use for plan Enterprise. Let me know what to do next.,billing
+"Hi support, how can I delete my account and all associated data on my account ACME-840. Please help when you can.",account_access
+Sorry to bother you but I need to unlock access to the reporting module for my role (order #64773).,account_access
+"Hello there, the subscription renewed without notifying me and I was charged since two days ago. This is urgent for us.",billing
+"Hey team, please credit my account for the days I didn't use. Please help when you can.",billing
+Sorry to bother you but why was my card billed after I cancelled on my account ACME-469. Thanks in advance.,billing
+"Hey team, what is your policy on data retention since this morning. Any update would be appreciated.",general_enquiry
+I'm not receiving the verification code by SMS on my account ACME-184. Thank you!,account_access
+"Good morning, please reactivate my account that was suspended. Any update would be appreciated.",account_access
+"Hello there, I was removed from my company workspace by mistake for plan Team. Thanks in advance.",account_access
+"Hi, is there a mobile app available for tablets. Let me know what to do next.",general_enquiry
+"Hi, which languages does the interface support since two days ago.",general_enquiry
+"Hi, can you tell me whether the product works with Linux for plan Business. Thank you!",general_enquiry
+"Good morning, uploads fail halfway through with a timeout for plan Team. Any update would be appreciated.",technical_issue
+The page keeps showing an error 500 with error code E795. Thank you!,technical_issue
+"Hello there, my account is locked after too many failed attempts since Monday. Let me know what to do next.",account_access
+"Hello there, please reactivate my account that was suspended (order #34906).",account_access
+"Hello there, my account says my permissions are read-only and I need edit access with error code E595. Thank you!",account_access
+"Hi, where can I read your terms of service for plan Starter. Thanks in advance.",general_enquiry
+"Hey team, I'd like to dispute a transaction on my bank statement with error code E627. Any update would be appreciated.",billing
+"Hey team, is there a partner programme for resellers.",general_enquiry
+What kind of customer support do you offer on weekends on my account ACME-452. Any update would be appreciated.,general_enquiry
+"Hi, the mobile app freezes on the home screen on my account ACME-619.",technical_issue
+File attachments are corrupted when I download them with error code E406. Any update would be appreciated.,technical_issue
+"Good morning, the API is returning a 503 error intermittently on my account ACME-507. Thank you!",technical_issue
+"Hey team, the website is extremely slow since yesterday (order #77154). Please help when you can.",technical_issue
+"Hello there, can I switch from monthly billing to annual billing since last week. Any update would be appreciated.",billing
+I was charged twice for my subscription this month with error code E941. Thanks in advance.,billing
+My account says my permissions are read-only and I need edit access since Monday. Let me know what to do next.,account_access
+"Hey team, I can't sign in from my new laptop (order #85684). This is urgent for us.",account_access
+"Good morning, can you tell me whether the product works with Linux on my account ACME-728.",general_enquiry
+Sorry to bother you but the printer option is missing from the print menu (order #23474). Thanks in advance.,technical_issue
+Sorry to bother you but file attachments are corrupted when I download them since Monday. Let me know what to do next.,technical_issue
+"Hello there, which languages does the interface support (order #92323). Thank you!",general_enquiry
+"Hello there, the app logs me out every few minutes during use since last week. Let me know what to do next.",technical_issue
+"Hi support, I was removed from my company workspace by mistake for plan Business. Thank you!",account_access
+"Hey team, I can't sign in from my new laptop for plan Enterprise. Let me know what to do next.",account_access
+"Good morning, how do I remove access for a former employee since two days ago.",account_access
+"Hello there, the search function returns no results even for exact matches. Please help when you can.",technical_issue
+"Hi, why did my price go up at renewal. Let me know what to do next.",billing
+"Hello there, please credit my account for the days I didn't use on my account ACME-968. Let me know what to do next.",billing
+"Hi, I was removed from my company workspace by mistake with error code E291. Please help when you can.",account_access
+"Hey team, I need to transfer ownership of the account to a colleague (order #39603). Let me know what to do next.",account_access
+"Hi, can I switch from monthly billing to annual billing for plan Business. Any update would be appreciated.",billing
+"Hello there, the charts on my dashboard show incorrect data on my account ACME-474. Any update would be appreciated.",technical_issue
+"Hello there, can I get a demo of the product for my team next week with error code E629. Thank you!",general_enquiry
+"Good morning, is there a mobile app available for tablets since yesterday. Let me know what to do next.",general_enquiry
+Sorry to bother you but I'm not receiving the verification code by SMS for plan Pro. Any update would be appreciated.,account_access
+"Hi support, the video player won't play any recordings on my account ACME-717. Please help when you can.",technical_issue
+"Hi support, the app crashes every time I open the dashboard since last week. Let me know what to do next.",technical_issue
+"Hi, the video player won't play any recordings since yesterday. This is urgent for us.",technical_issue
+"Hello there, two-factor codes are not being accepted on my phone since two days ago. Any update would be appreciated.",account_access
+"Hi support, the checkout page throws a JavaScript error and won't load on my account ACME-587. Thanks in advance.",technical_issue
+The printer option is missing from the print menu with error code E350. This is urgent for us.,technical_issue
+"Hi support, I want a refund for the last payment. This is urgent for us.",billing
+"Hi support, I forgot my password and the reset email never arrived with error code E760.",account_access
+"Hello there, the search function returns no results even for exact matches (order #93584). Any update would be appreciated.",technical_issue
+"Hi, I want a refund for the last payment since Tuesday. Thanks in advance.",billing
+"Hello there, the video player won't play any recordings for plan Business. Let me know what to do next.",technical_issue
+"Hey team, I was overcharged for the extra seat we added. Let me know what to do next.",billing
+"Hey team, the software installer fails with error code 0x80070005 since two days ago. Please help when you can.",technical_issue
+"Hey team, what kind of customer support do you offer on weekends. Any update would be appreciated.",general_enquiry
+Can you tell me whether the product works with Linux since this morning. Thanks in advance.,general_enquiry
+"Hey team, what are your opening hours over the holidays for plan Starter. Please help when you can.",general_enquiry
+"Hello there, the app crashes every time I open the dashboard (order #38074). Please help when you can.",technical_issue
+How do I subscribe to your newsletter with error code E621. Any update would be appreciated.,general_enquiry
+"Hi, two-factor codes are not being accepted on my phone. Please help when you can.",account_access
+"Good morning, my payment failed but I still see a pending charge on my account ACME-825. Thanks in advance.",billing
+"Hi support, please reactivate my account that was suspended for plan Starter.",account_access
+Sorry to bother you but I need to unlock access to the reporting module for my role.,account_access
+"Hey team, the password policy rejects every new password I try with error code E686. Let me know what to do next.",account_access
+"Hello there, do you support integrations with Slack and Teams. Thanks in advance.",general_enquiry
+"Hello there, how do I subscribe to your newsletter since yesterday. This is urgent for us.",general_enquiry
+"Hi support, the search function returns no results even for exact matches (order #53655). Please help when you can.",technical_issue
+"Hey team, is there a mobile app available for tablets since last week. Let me know what to do next.",general_enquiry
+Sorry to bother you but can you tell me whether the product works with Linux with error code E111. Thank you!,general_enquiry
+"Hey team, the mobile app freezes on the home screen. Thank you!",technical_issue
+Sorry to bother you but I need to unlock access to the reporting module for my role (order #28344). Please help when you can.,account_access
+"Hi, how do I subscribe to your newsletter since two days ago. Thank you!",general_enquiry
+"Hi, my account says my permissions are read-only and I need edit access since two days ago. Thank you!",account_access
+"Hi, is there a partner programme for resellers on my account ACME-537.",general_enquiry
+"Hi support, the API is returning a 503 error intermittently (order #68222). Thank you!",technical_issue
+"Hey team, I was billed in the wrong currency with error code E389. Please help when you can.",billing
+Sorry to bother you but the video player won't play any recordings since Tuesday. Let me know what to do next.,technical_issue
+"Hi, how can I delete my account and all associated data (order #42725). Thank you!",account_access
+"Hi, what are your opening hours over the holidays since this morning. Thanks in advance.",general_enquiry
+"Hello there, my discount disappeared from the renewal invoice.",billing
+"Hi, the invoice total doesn't match what I agreed to with error code E915.",billing
+Sorry to bother you but I need a receipt showing the amount paid for expense claims for plan Pro. Let me know what to do next.,billing
+Sorry to bother you but single sign-on keeps redirecting me back to the login page (order #48070). Any update would be appreciated.,account_access
+"Hi support, the VAT on my receipt looks incorrect (order #53228).",billing
+"Hi support, is there a free trial available before I buy on my account ACME-720. Let me know what to do next.",general_enquiry
+"Hey team, the checkout page throws a JavaScript error and won't load with error code E121. Thank you!",technical_issue
+"Hi, I can't log in to my account for plan Pro. Let me know what to do next.",account_access
+Sorry to bother you but my session expires immediately after I log in. This is urgent for us.,account_access
+"Hi support, how do I subscribe to your newsletter. Any update would be appreciated.",general_enquiry
+"Good morning, how do I remove access for a former employee with error code E788. Thanks in advance.",account_access
+"Hi support, please credit my account for the days I didn't use on my account ACME-938. Let me know what to do next.",billing
+"Hello there, data imported from CSV is showing up with missing rows. Thanks in advance.",technical_issue
+Sorry to bother you but I was overcharged for the extra seat we added for plan Pro. This is urgent for us.,billing
+"Hi, are there any upcoming webinars I can attend since two days ago. This is urgent for us.",general_enquiry
+"Hello there, why was my card billed after I cancelled on my account ACME-159. Any update would be appreciated.",billing
+The price on my bill is higher than the plan I signed up for on my account ACME-466. Please help when you can.,billing
+"Hi, I lost my authenticator app and need to reset two-factor since yesterday. Thank you!",account_access
+File attachments are corrupted when I download them with error code E161. Thank you!,technical_issue
+"Hi support, are there any upcoming webinars I can attend on my account ACME-159. Thanks in advance.",general_enquiry
+"Hi support, the integration with our calendar stopped syncing events since two days ago. Thanks in advance.",technical_issue
+I need a receipt showing the amount paid for expense claims with error code E192. Thanks in advance.,billing
+"Hi support, the password policy rejects every new password I try with error code E594. Let me know what to do next.",account_access
+"Hi, what kind of customer support do you offer on weekends since two days ago.",general_enquiry
+Sorry to bother you but I can't sign in from my new laptop (order #90079). Thanks in advance.,account_access
+"Hi, I can't access the admin panel anymore on my account ACME-734. Thanks in advance.",account_access
+Notifications stopped working after the last release with error code E165. Thanks in advance.,technical_issue
+"Hello there, the software installer fails with error code 0x80070005 for plan Business. Thanks in advance.",technical_issue
+"Hi support, why was my card billed after I cancelled since Monday. Thank you!",billing
+"Hi support, the price on my bill is higher than the plan I signed up for for plan Starter. Any update would be appreciated.",billing
+"Hello there, I need to transfer ownership of the account to a colleague. Any update would be appreciated.",account_access
+"Good morning, what are your opening hours over the holidays with error code E806.",general_enquiry
+"Hi, my discount disappeared from the renewal invoice on my account ACME-315. Please help when you can.",billing
+"Hello there, the subscription renewed without notifying me and I was charged (order #25525).",billing
+"Hello there, can you tell me whether the product works with Linux since yesterday.",general_enquiry
+What is the difference between the standard and pro plans for plan Starter. Thank you!,general_enquiry
+"Hi, could you send me the product brochure for plan Pro. Thank you!",general_enquiry
+"Hi, my username was changed and now I can't sign in (order #94085). Any update would be appreciated.",account_access
+"Hi support, I'd like to leave some general feedback about the product (order #17589). Any update would be appreciated.",general_enquiry
+"Good morning, where can I find the user guide for the new features with error code E807. Let me know what to do next.",general_enquiry
+"Hey team, I'd like to know if you are hiring for the support team with error code E698. Please help when you can.",general_enquiry
+"Hi support, my session expires immediately after I log in (order #24026). This is urgent for us.",account_access
+"Hi support, I need to change the email address linked to my account (order #64206). Let me know what to do next.",account_access
+"Hi, how do I subscribe to your newsletter. Thank you!",general_enquiry
+"Hi, the export button does nothing when I click it since this morning. This is urgent for us.",technical_issue
+Do you offer a discount for non-profit organisations for plan Enterprise. This is urgent for us.,general_enquiry
+"Hello there, I need to unlock access to the reporting module for my role. Please help when you can.",account_access
+"Hello there, why did my price go up at renewal on my account ACME-720. Any update would be appreciated.",billing
+The invoice total doesn't match what I agreed to with error code E854.,billing
+Sorry to bother you but the late payment fee was added even though I paid on time (order #63269). Thanks in advance.,billing
+"Good morning, I need to change the email address linked to my account for plan Pro. This is urgent for us.",account_access
+My session expires immediately after I log in on my account ACME-211.,account_access
+"Hi, the late payment fee was added even though I paid on time for plan Enterprise. Thank you!",billing
+"Good morning, my payment failed but I still see a pending charge since two days ago. This is urgent for us.",billing
+"Good morning, are there any upcoming webinars I can attend (order #54663). Thanks in advance.",general_enquiry
+"Hello there, the tax amount on my order is wrong (order #47762).",billing
+"Hey team, I need to unlock access to the reporting module for my role on my account ACME-114. Thank you!",account_access
+"Hi support, I'd like to know if you are hiring for the support team on my account ACME-155. This is urgent for us.",general_enquiry
+"Hi, do you offer a discount for non-profit organisations with error code E981. Let me know what to do next.",general_enquiry
+"Hey team, I want a refund for the last payment with error code E765.",billing
+"Hi, is there a free trial available before I buy with error code E469. This is urgent for us.",general_enquiry
+"Hey team, is it possible to schedule a call with the sales team for plan Team. Please help when you can.",general_enquiry
+"Hi support, can I speak to someone about enterprise pricing options for plan Business.",general_enquiry
+"Hello there, why did my price go up at renewal on my account ACME-427. Thanks in advance.",billing
+Sorry to bother you but the sync between my phone and the desktop app is broken on my account ACME-524. This is urgent for us.,technical_issue
+"Hi support, how do I remove access for a former employee for plan Business. Thank you!",account_access
+"Hi, how can I delete my account and all associated data for plan Starter. Thank you!",account_access
+"Hello there, uploads fail halfway through with a timeout for plan Business. Let me know what to do next.",technical_issue
+"Hi, can I get a demo of the product for my team next week with error code E837. Thanks in advance.",general_enquiry
+Sorry to bother you but can I switch from monthly billing to annual billing. Please help when you can.,billing
+"Hey team, the browser extension stops responding after a few clicks for plan Starter. Please help when you can.",technical_issue
+"Hi support, single sign-on keeps redirecting me back to the login page since Monday.",account_access
+Sorry to bother you but the printer option is missing from the print menu for plan Enterprise. Let me know what to do next.,technical_issue
+"Hi support, I forgot my password and the reset email never arrived for plan Enterprise.",account_access
+"Hello there, what kind of customer support do you offer on weekends for plan Pro.",general_enquiry
+"Hey team, why was my card billed after I cancelled for plan Pro. Thanks in advance.",billing
+I see a database connection error when saving my changes since two days ago. Let me know what to do next.,technical_issue
+"Good morning, where can I find the user guide for the new features for plan Team. Thanks in advance.",general_enquiry
+I'd like to leave some general feedback about the product since last week. Thanks in advance.,general_enquiry
+"Hello there, where can I find the user guide for the new features. Thank you!",general_enquiry
+"Good morning, the sync between my phone and the desktop app is broken on my account ACME-751. Any update would be appreciated.",technical_issue
+"Good morning, I need a copy of my invoice for my accounts team (order #31417). Thank you!",billing
+Please credit my account for the days I didn't use since Tuesday. Please help when you can.,billing
+"Good morning, the sync between my phone and the desktop app is broken since Tuesday. This is urgent for us.",technical_issue
+"Hi, I'm not receiving the verification code by SMS with error code E568. Thank you!",account_access
+"Hi, the invite link to join our organisation has expired (order #43422). This is urgent for us.",account_access
+Where can I find the user guide for the new features.,general_enquiry
+Sorry to bother you but the software installer fails with error code 0x80070005. This is urgent for us.,technical_issue
+I forgot my password and the reset email never arrived with error code E551.,account_access
+Sorry to bother you but the subscription renewed without notifying me and I was charged on my account ACME-538.,billing
+"Hey team, could you send me the product brochure with error code E406. Let me know what to do next.",general_enquiry
+"Hello there, where can I read your terms of service with error code E490.",general_enquiry
+"Hi, I forgot my password and the reset email never arrived. Thank you!",account_access
+Sorry to bother you but the software installer fails with error code 0x80070005 with error code E470. Thank you!,technical_issue
+"Hi support, can I speak to someone about enterprise pricing options (order #25765). Let me know what to do next.",general_enquiry
+"Good morning, why did my price go up at renewal with error code E941. Thanks in advance.",billing
+"Good morning, I can't verify my identity to recover my account on my account ACME-565.",account_access
+"Hi support, the app crashes every time I open the dashboard for plan Pro. Thanks in advance.",technical_issue
+"Hi support, my discount disappeared from the renewal invoice with error code E171. Thank you!",billing
+"Hi support, my discount disappeared from the renewal invoice since two days ago. Please help when you can.",billing
+"Hi, where can I read your terms of service since two days ago.",general_enquiry
+"Hello there, I need to change the email address linked to my account (order #50026).",account_access
+Sorry to bother you but what are your opening hours over the holidays on my account ACME-420. Please help when you can.,general_enquiry
+"Hey team, is there a partner programme for resellers for plan Business. Let me know what to do next.",general_enquiry
+"Good morning, is there a free trial available before I buy since Monday. Thank you!",general_enquiry
+"Hey team, my discount disappeared from the renewal invoice. This is urgent for us.",billing
+"Hi support, why did my price go up at renewal (order #18834).",billing
+"Hi support, my account says my permissions are read-only and I need edit access since two days ago.",account_access
+"Hey team, I can't access the admin panel anymore on my account ACME-235. Please help when you can.",account_access
+The website is extremely slow since yesterday on my account ACME-251.,technical_issue
+"Good morning, my login works on the web but not in the mobile app for plan Business. Thank you!",account_access
+"Good morning, could you send me the product brochure on my account ACME-803. Let me know what to do next.",general_enquiry
+"Hi support, where can I read your terms of service. Thank you!",general_enquiry
+"Hey team, I lost my authenticator app and need to reset two-factor for plan Starter. Thank you!",account_access
+I was charged twice for my subscription this month (order #63005). Please help when you can.,billing
+The mobile app freezes on the home screen on my account ACME-279. Please help when you can.,technical_issue
+Sorry to bother you but I want a refund for the last payment on my account ACME-621. Please help when you can.,billing
+"Hi support, I was charged for a plan I never purchased. This is urgent for us.",billing
+"Hey team, I want a refund for the last payment. This is urgent for us.",billing
+Sorry to bother you but the printer option is missing from the print menu with error code E243. This is urgent for us.,technical_issue
+"Hey team, I forgot my password and the reset email never arrived on my account ACME-549. Please help when you can.",account_access
+"Hello there, which languages does the interface support. Any update would be appreciated.",general_enquiry

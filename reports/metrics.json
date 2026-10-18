@@ -1,0 +1,153 @@
+{
+  "trained_at": "2026-10-18T15:02:28+00:00",
+  "model": "TF-IDF (1-2 grams) + Logistic Regression (class_weight=balanced)",
+  "labels": [
+    "billing",
+    "technical_issue",
+    "account_access",
+    "general_enquiry"
+  ],
+  "dataset": {
+    "path": "data/support_tickets.csv",
+    "total_rows": 600,
+    "train_rows": 480,
+    "test_rows": 120,
+    "unseen_rows": 24
+  },
+  "test_split": {
+    "accuracy": 0.9916666666666667,
+    "macro_precision": 0.9919354838709677,
+    "macro_recall": 0.9916666666666667,
+    "macro_f1": 0.9916643512086691,
+    "weighted_f1": 0.9916643512086691,
+    "per_class": {
+      "billing": {
+        "precision": 1.0,
+        "recall": 0.9666666666666667,
+        "f1": 0.9830508474576272,
+        "support": 30
+      },
+      "technical_issue": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 30
+      },
+      "account_access": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 30
+      },
+      "general_enquiry": {
+        "precision": 0.967741935483871,
+        "recall": 1.0,
+        "f1": 0.9836065573770492,
+        "support": 30
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "billing",
+        "technical_issue",
+        "account_access",
+        "general_enquiry"
+      ],
+      "matrix": [
+        [
+          29,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          30,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          30,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          30
+        ]
+      ]
+    },
+    "num_examples": 120
+  },
+  "unseen_examples": {
+    "accuracy": 0.8333333333333334,
+    "macro_precision": 0.8809523809523809,
+    "macro_recall": 0.8333333333333333,
+    "macro_f1": 0.8057692307692308,
+    "weighted_f1": 0.8057692307692307,
+    "per_class": {
+      "billing": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.9230769230769231,
+        "support": 6
+      },
+      "technical_issue": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1": 0.5,
+        "support": 6
+      },
+      "account_access": {
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
+        "support": 6
+      },
+      "general_enquiry": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "billing",
+        "technical_issue",
+        "account_access",
+        "general_enquiry"
+      ],
+      "matrix": [
+        [
+          6,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          6,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          6
+        ]
+      ]
+    },
+    "num_examples": 24
+  }
+}

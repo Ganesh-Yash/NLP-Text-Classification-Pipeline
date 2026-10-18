@@ -1,0 +1,11 @@
+{
+  "labels": [
+    "billing",
+    "technical_issue",
+    "account_access",
+    "general_enquiry"
+  ],
+  "trained_at": "2026-10-18T15:02:28+00:00",
+  "scikit_learn_version": "1.9.1",
+  "training_rows": 480
+}
